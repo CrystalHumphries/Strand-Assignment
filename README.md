@@ -2,7 +2,7 @@ The purpose of this program is to assign the strand ID that is used by cufflinks
 
 How to run:
 
-    cat file.sam | perl AssignStrand.pl   
+    cat file.sam | perl AssignStrand.pl  
       
 How to Run (from BAM file and converting back to BAM):
   
